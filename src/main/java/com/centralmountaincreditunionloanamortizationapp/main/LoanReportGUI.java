@@ -404,6 +404,9 @@ public class LoanReportGUI extends javax.swing.JFrame {
         loanYears = 0;
         jTextAreaReport.setText("");
         jTextFieldAnnualInterestRate.setText("");
+        jFormattedTextFieldInputLoanAmount.setText("");
+        jFormattedTextFieldInputAnnualInterestRate.setText("");
+        jFormattedTextFieldInputYearsOfLoan.setText("");        
     }//GEN-LAST:event_jMenuItemFileClearActionPerformed
 
     /**
